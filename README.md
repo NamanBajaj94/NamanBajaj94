@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanbajaj94&show_icons=true)
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanbajaj94&show_icons=true&count_private=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
