@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naman</h1>
-<h3 align="center">who loves making ideas happen at scale</h3>
+<h3 align="center">who loves to make ideas happen at scale</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanbajaj94&label=Profile%20views&color=0e75b6&style=flat" alt="namanbajaj94" /> </p>
 
