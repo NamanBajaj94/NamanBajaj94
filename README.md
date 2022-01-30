@@ -7,7 +7,9 @@
 
 - 💬 Ask me about **building internet apps for next generation of internet users**
 
-- 📫 How to reach me **namanbajaj94@gmail.com**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/NamanBajaj94)
+
+- 📫 How to reach me [email](mailto:namanbajaj94@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
